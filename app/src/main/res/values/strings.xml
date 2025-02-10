@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+
+    <!-- HINTS PLAINTEXTS -->
+    <string name="hint_name">Nombre</string>
+    <string name="hint_password">Clave</string>
+
+    <!-- HINTS LABELS -->
+    <string name="lbl_switch">Guardar las credenciales</string>
+    <string name="lbl_boton">Acceder</string>
+
+    <!-- NOTIFICACIONES -->
+    <string name="toastSave">Credenciales guardadas</string>
+    <string name="toastDelete">Credenciales eliminadas</string>
+
+    <!-- NOTIFICACIONES DE VALIDACIÓN -->
+    <string name="faltaNombre">Rellena el campo de nombre</string>
+    <string name="faltaClave">Rellena el campo de clave</string>
+    <string name="claveInvalida">La clave debe tener 9 caracteres</string>
+    <string name="credencialesIncorrectas">El usuario o la contraseña son incorrectos</string>
+
+    <!-- LABELS FRAGMENT SALUDO -->
+    <string name="lbl_greeting">¡Bienvenido!"</string>
+    <string name="lbl_boton_borrar">Borrar Credenciales</string>
+
+    <!-- DESCRIPCIONES DE IMAGEN -->
+    <string name="desc_saludo">Imagen de Saludo</string>
+    <string name="desc_boton_borrar">Botón para borrar</string>
+</resources>
